@@ -15,7 +15,7 @@ It allows users to register, follow RSS feeds, aggregate posts from those feeds,
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/gator.git
+git clone https://github.com/Hibaabusnuber/Blog-Aggregator-in-Typescript.git
 cd gator
 
 Install dependencies:
@@ -89,3 +89,4 @@ https://www.boot.dev/blog/index.xml
 ## Author
 
 Hiba – Computer Engineering student at An-Najah National University.
+
