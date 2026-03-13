@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1773363586841,
+      "tag": "0000_curious_purifiers",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1773378027616,
+      "tag": "0001_perpetual_karnak",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1773378941827,
+      "tag": "0002_stiff_ricochet",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1773380460956,
+      "tag": "0003_oval_nitro",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1773381017068,
+      "tag": "0004_breezy_lenny_balinger",
+      "breakpoints": true
+    }
+  ]
+}
